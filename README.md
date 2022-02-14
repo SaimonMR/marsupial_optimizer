@@ -2,8 +2,24 @@
 
 ## Before to start
 
-This is a repository forked from the original: **robotics-upo/marsupial_optimizer**, which momentanly is in update. 
+This is a repository forked from the original: **robotics-upo/marsupial_optimizer**, which momentanly is in updating. 
 As maintainer of the original repository, I am in charge to keep it public the package published together with the paper **Optimization-based Trajectory Planning for Tethered Aerial Robots** in ICRA'20.
+
+Please cite our new journal paper (supersedes the ICRA 2010 workshop version) if you use our method in your research:
+S. Martínez-Rozas, D. Alejo, F. Caballero and L. Merino, "Optimization-based Trajectory Planning for Tethered Aerial Robots," 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 362-368, doi: 10.1109/ICRA48506.2021.9561062.
+
+```
+@INPROCEEDINGS{9561062,
+  author={Martínez-Rozas, S. and Alejo, D. and Caballero, F. and Merino, L.},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Optimization-based Trajectory Planning for Tethered Aerial Robots}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={362-368},
+  doi={10.1109/ICRA48506.2021.9561062}}
+```
+
 
 ## Description
 
